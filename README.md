@@ -1,4 +1,4 @@
-## Hi there 👋
+## Retired Software Developer
 
 <!--
 **BigCabrito20/BigCabrito20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
